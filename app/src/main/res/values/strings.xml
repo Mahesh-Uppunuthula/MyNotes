@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pick_a_color">pick a color</string>
+    <string name="back">back</string>
+    <string name="delete">delete</string>
+    <string name="color_note">colour note</string>
+    <string name="save">save</string>
+    <string name="copy_note">copy note</string>
+</resources>
