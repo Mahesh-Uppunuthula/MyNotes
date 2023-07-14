@@ -33,7 +33,7 @@ My Notes App is a sleek and intuitive note-taking application designed to help y
 ## Screenshots
 
 <div>
-<h5>Getting Started Screen with and without validations</h5>
+<h5>Getting Started Screen without and with validations</h5>
 <img src="https://github.com/Mahesh-Uppunuthula/MyNotes/assets/108076194/9632594b-7d3d-404e-a96a-61ab6b737a45" width="300">
 <img src="https://github.com/Mahesh-Uppunuthula/MyNotes/assets/108076194/f1164e92-016e-461d-9344-5815c3f4554a" width="300">
   
@@ -49,13 +49,13 @@ My Notes App is a sleek and intuitive note-taking application designed to help y
 
 <div></div>
 
-<h5>Home Page with & without notes</h5>
+<h5>Home Page without & with notes</h5>
 <img src="https://github.com/Mahesh-Uppunuthula/MyNotes/assets/108076194/ade3de8b-4e69-4edf-a0d8-23d3365b374f" width="300">
 <img src="https://github.com/Mahesh-Uppunuthula/MyNotes/assets/108076194/14318a1e-2b18-497f-a226-6e98a089c1d5" width="300">
 
 <div></div>
 
-<h5>Create New Note with & without data Screen</h5>
+<h5>Create New Note without & with data Screen</h5>
 <img src="https://github.com/Mahesh-Uppunuthula/MyNotes/assets/108076194/615b8b17-1d21-4104-a946-017f8f547f3b" width="300">
 <img src="https://github.com/Mahesh-Uppunuthula/MyNotes/assets/108076194/fa488d2e-67a1-4de0-a67a-8ca6d5f01c1b" width="300">
 
