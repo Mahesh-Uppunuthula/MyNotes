@@ -9,17 +9,36 @@ My Notes App is a sleek and intuitive note-taking application designed to help y
 - **Note Editing**: Edit your notes using a rich text editor that allows you to format text and add headings.
 - **Note Organization**: Organize your notes using tags. Create custom categories to keep your notes structured and easy to find.
 
+
+## Technologies Used
+
+- Android Studio
+- Java
+- XML
+- Firebase (for authentication, database, and notifications)
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/your-username/FoodWastagePrevention.git`
+2. Open the project in Android Studio.
+3. Build and run the project on an Android device or emulator.
+
+
 ## Getting Started
 
-1. **Installation**: Download and install the My Notes App manually from our [GitHub repository](https://github.com/Mahesh-Uppunuthula/MyNotes) by dowloading then building an apk and lauching it on your mobile device.
-2. **Account Creation**: Launch the app and create an account using your email address or sign in with your existing account.
-3. **Note Creation**: Tap the "+" button to create a new note. Start typing your content and use the formatting options to customize the text.
-4. **Note Editing**: Edit your notes using a rich text editor that allows you to format text and add headings.
-5. **Note Organization**: Organize your notes using tags. Create custom categories to keep your notes structured and easy to find.
+1. **Account Creation**: Launch the app and create an account using your email address or sign in with your existing account.
+2. **Note Creation**: Tap the "+" button to create a new note. Start typing your content and use the formatting options to customize the text.
+3. **Note Editing**: Edit your notes using a rich text editor that allows you to format text and add headings.
+4. **Note Organization**: Organize your notes using tags. Create custom categories to keep your notes structured and easy to find.
 
-## Feedback and Support
+## Contributing
 
-We value your feedback and are continuously working to improve My Notes App. If you have any questions, suggestions, or need assistance, please contact me at uppunuthulamahesh312@gmail.com
+Contributions to FoodWastagePrevention are welcome! Here's how you can contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and test them thoroughly.
+4. Submit a pull request describing your changes.
 
 ## License
 
