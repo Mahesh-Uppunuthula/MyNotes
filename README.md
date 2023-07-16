@@ -6,6 +6,7 @@ My Notes App is a sleek and intuitive note-taking application designed to help y
 
 - **Intuitive Interface**: The app features a modern and elegant user interface that makes note-taking a delightful experience.
 - **Note Creation**: Create new notes with ease. Simply tap the "+" button to start writing.
+- **Auto Save**: The app's auto save function makes it simple to store notes.
 - **Note Editing**: Edit your notes using a rich text editor that allows you to format text and add headings.
 - **Note Organization**: Organize your notes using tags. Create custom categories to keep your notes structured and easy to find.
 
