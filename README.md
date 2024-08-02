@@ -73,7 +73,7 @@ My Notes App is a sleek and intuitive note-taking application designed to help y
 
 
 ## Contributing
-Contributions to FoodWastagePrevention are welcome! Here's how you can contribute:
+Contributions to MyNotes app are welcome! Here's how you can contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
